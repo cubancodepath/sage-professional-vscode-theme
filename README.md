@@ -2,6 +2,8 @@
 
 A Palenight-inspired dark theme with sage green personality.
 
+![Sage Professional Theme Preview](screenshot-preview.png)
+
 ## Syntax Palette
 
 | Token | Color | Hex |
