@@ -151,7 +151,21 @@
     "focusBorder": "#4a7c6f77",
     "foreground": "#d4ddd8",
     "widget.shadow": "#00000044",
-    "selection.background": "#4a7c6f44"
+    "selection.background": "#4a7c6f44",
+
+    "editorWidget.background": "#1A2528",
+    "editorWidget.border": "#2E3A3E",
+    "editorWidget.foreground": "#d4ddd8",
+
+    "editorSuggestWidget.background": "#1A2528",
+    "editorSuggestWidget.border": "#2E3A3E",
+    "editorSuggestWidget.foreground": "#d4ddd8",
+    "editorSuggestWidget.highlightForeground": "#A8D4C0",
+    "editorSuggestWidget.selectedBackground": "#4A7C6F35",
+
+    "editorHoverWidget.background": "#1A2528",
+    "editorHoverWidget.border": "#2E3A3E",
+    "editorHoverWidget.foreground": "#d4ddd8"
   },
   "tokenColors": [
     {
